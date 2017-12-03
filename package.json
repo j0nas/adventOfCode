@@ -1,0 +1,20 @@
+{
+  "name": "adventOfCode",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch"
+  },
+  "keywords": [],
+  "author": "Jonas Jensen <jonas.jensen@msn.com> (https://jonas-jensen.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
